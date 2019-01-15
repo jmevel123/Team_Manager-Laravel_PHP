@@ -1,2 +1,5 @@
-# Team_Manager-Laravel_PHP
-Team Manager with Laravel php framework
+To launch:
+
+-php artisan serve
+
+-go to link given
